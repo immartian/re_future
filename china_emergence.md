@@ -48,7 +48,7 @@ Chapter 6 explores how **moral systems**—cooperation, trust, empathy—are **h
 
 > “Moral structures persist because their utility-to-cost ratio exceeds that of purely competitive behaviors.”
 
-This explains why moral reasoning and social cohesion can silently evolve even in hostile environments. Subversive storytelling, mutual aid, underground education, and encrypted communication all serve as *moral recursions*—laying down \$\Phi\_{moral}\$ patterns that become institutional seeds in post-totalitarian transitions.
+This explains why moral reasoning and social cohesion can silently evolve even in hostile environments. Subversive storytelling, mutual aid, underground education, and encrypted communication all serve as *moral recursions*—laying down $\Phi_{moral}$ patterns that become institutional seeds in post-totalitarian transitions.
 
 
 
@@ -152,11 +152,11 @@ Economic forces tip emergence in several ways:
 
 The economic layer recursively supports political emergence as follows:
 
-\[
-M_{t+1}^{econ} = M_t^{econ} + \sum_i P(E_i) \cdot w_i
-\]
+```
+M_{t+1}^{econ} = M_t^{econ} + Σ_i P(E_i) · w_i
+```
 
-where \(P(E_i)\) represents economic patterns (firms, tokens, behaviors) with high reusability and entropy reduction, and \(w_i\) is a weight determined by social transmission, efficiency, or perceived fairness.
+where `P(E_i)` represents economic patterns (firms, tokens, behaviors) with high reusability and entropy reduction, and `w_i` is a weight determined by social transmission, efficiency, or perceived fairness.
 
 Over time, these economic patterns lock in decentralized trust systems, alternative value signals, and private autonomy. These exert bottom-up pressure on political institutions to adapt, or face crisis from contradiction overload.
 
