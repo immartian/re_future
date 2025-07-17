@@ -1,7 +1,4 @@
 # Recursive Emergence: A Design Framework for Peaceful Transformation in Totalitarian Systems (Case Study: China)
-# Recursive Emergence: A Design Framework for Peaceful Transformation in Totalitarian Systems (Case Study: China)
-
-
 
 
 ## Executive Summary
@@ -324,4 +321,20 @@ RE does not seek revolution; it enables successive thresholds of emergence until
 "We do not cut down the tree. We grow taller trees beside it—until it becomes part of the forest floor."
 
 ---
+
+## References
+
+### English Edition
+
+- Recursive Emergence Theory. [https://recursive-emergence.github.io/RE/](https://recursive-emergence.github.io/RE/)
+- Hofstadter, D. R. (1979). Gödel, Escher, Bach: An Eternal Golden Braid. Basic Books.
+- Simon, H. A. (1962). The Architecture of Complexity. Proceedings of the American Philosophical Society, 106(6), 467-482.
+- Morin, E. (2008). On Complexity. Hampton Press.
+- Maturana, H. R., & Varela, F. J. (1980). Autopoiesis and Cognition: The Realization of the Living. D. Reidel Publishing Company.
+- Arendt, H. (1951). The Origins of Totalitarianism. Schocken Books.
+- Popper, K. (1945). The Open Society and Its Enemies. Routledge.
+- Fukuyama, F. (1992). The End of History and the Last Man. Free Press.
+- Huntington, S. P. (1991). The Third Wave: Democratization in the Late Twentieth Century. University of Oklahoma Press.
+- Dahl, R. A. (1971). Polyarchy: Participation and Opposition. Yale University Press.
+
 
