@@ -322,8 +322,6 @@ RE does not seek revolution; it enables successive thresholds of emergence until
 
 ## References
 
-### English Edition
-
 - Recursive Emergence Theory. [https://recursive-emergence.github.io/RE/](https://recursive-emergence.github.io/RE/)
 - Hofstadter, D. R. (1979). Gödel, Escher, Bach: An Eternal Golden Braid. Basic Books.
 - Simon, H. A. (1962). The Architecture of Complexity. Proceedings of the American Philosophical Society, 106(6), 467-482.
