@@ -152,11 +152,9 @@ Economic forces tip emergence in several ways:
 
 The economic layer recursively supports political emergence as follows:
 
-```
-M_{t+1}^{econ} = M_t^{econ} + Σ_i P(E_i) · w_i
-```
+$M_{t+1}^{econ} = M_t^{econ} + \sum_i P(E_i) \cdot w_i$
 
-where `P(E_i)` represents economic patterns (firms, tokens, behaviors) with high reusability and entropy reduction, and `w_i` is a weight determined by social transmission, efficiency, or perceived fairness.
+where $P(E_i)$ represents economic patterns (firms, tokens, behaviors) with high reusability and entropy reduction, and $w_i$ is a weight determined by social transmission, efficiency, or perceived fairness.
 
 Over time, these economic patterns lock in decentralized trust systems, alternative value signals, and private autonomy. These exert bottom-up pressure on political institutions to adapt, or face crisis from contradiction overload.
 
