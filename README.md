@@ -82,6 +82,8 @@ Each layer is both self-reinforcing and a bridge to the next.
 
 This project envisions a future where **emergent layers of autonomy, trust, and coherence** render authoritarianism obsolete—not by force, but by recursion.
 
+![TREES](./tree_replacement.png)
+
 
 ## Suggested Next Steps
 
@@ -93,7 +95,7 @@ This project envisions a future where **emergent layers of autonomy, trust, and 
 
 ## Credits & Acknowledgment
 
-This design builds upon the theoretical foundation of Recursive Emergence (RE), with applications drawn from complexity theory, moral cognition, technological co-evolution, and systemic transition thinking.
+This design builds upon the theoretical foundation of [Recursive Emergence (RE)](https://recursive-emergence.github.io/RE/), with applications drawn from complexity theory, moral cognition, technological co-evolution, and systemic transition thinking.
 
 Maintained by: **Isaac**  
 Open to collaborators working on political systems, synthetic cognition, cultural emergence, or ethical AI.
