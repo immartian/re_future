@@ -118,18 +118,18 @@ Key RE drivers in the economic layer include:
 | Economic Feature | RE Interpretation                           |
 | ---------------- | ------------------------------------------- |
 | Trade            | Entropy-reducing exchange                   |
-| Contracts        | Reusable commitments (persistent \$\Phi\$)  |
+| Contracts        | Reusable commitments (persistent $\Phi$)    |
 | Firms            | Compressed coordination structures          |
 | Currency         | Symbolic memory of trust and transaction    |
 | Innovation       | High-potential emergent entities from recursion |
-| Market Crashes   | Structural contradictions in the \$\Omega\$ |
+| Market Crashes   | Structural contradictions in $\Omega$       |
 
 
 
 ## 🇨🇳 China: RE Tensions in Economic Transformation
 
 
-China’s economic model is a hybrid of authoritarian control and capitalist expansion. The RE perspective reveals a growing lattice of contradictions (\$\Omega\$):
+China’s economic model is a hybrid of authoritarian control and capitalist expansion. The RE perspective reveals a growing lattice of contradictions ($\Omega$):
 
 1. Global trade versus narrative control: Economic prosperity depends on openness, trust, and feedback, while narrative control restricts the recursive exchange of information essential to economic vitality.
 2. Entrepreneurial energy versus political risk: High-reusability innovations (such as Alibaba and ByteDance) generate powerful feedback, but crackdowns signal systemic fragility and suppress emergence potential.
@@ -142,7 +142,7 @@ China’s economic model is a hybrid of authoritarian control and capitalist exp
 
 Economic forces tip emergence in several ways:
 
-1. Distributed wealth becomes distributed memory. Wealth is not merely material; it stores recursive autonomy. As individuals gain choice of consumption, private assets, and access to external systems, they acquire recursive independence. These local \$\Psi\$ clusters seed future civic and institutional coherence.
+1. Distributed wealth becomes distributed memory. Wealth is not merely material; it stores recursive autonomy. As individuals gain choice of consumption, private assets, and access to external systems, they acquire recursive independence. These local $\Psi$ clusters seed future civic and institutional coherence.
 
 2. The entrepreneurial class acts as a catalyst for emergence. Entrepreneurs operate in recursive feedback loops—experimenting, refining, and scaling. These high-potential actors generate cultural and institutional shifts, even if unofficial. When the regime suppresses this class, it undermines its own emergence potential.
 
