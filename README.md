@@ -4,7 +4,6 @@ This project explores how Recursive Emergence (RE) can guide a peaceful, structu
 
 Rather than attempting to forcibly replace the existing system, we grow out of it: recursively building new layers of coherence, feedback, and autonomy until old structures lose relevance and recursive potential.
 
----
 
 ## Core Philosophy
 
@@ -18,7 +17,6 @@ Rather than attempting to forcibly replace the existing system, we grow out of i
 
 Totalitarian regimes suppress this cycle. RE unlocks it — layer by layer.
 
----
 
 ## Visual Maps
 
@@ -36,10 +34,10 @@ Totalitarian regimes suppress this cycle. RE unlocks it — layer by layer.
   - Economic and technological recursion
   - Externalized memory and trust networks
 
-📎 See `A_two-part_diagram_compares_the_recursive_emergenc.png`
+----
 
----
-
+![emergent layers](recursive_emergence_map.svg)
+ 
 ## Recursive Emergence Roadmap
 
 Each layer is both self-reinforcing and a bridge to the next.
@@ -77,7 +75,6 @@ Each layer is both self-reinforcing and a bridge to the next.
 | Political   | Institutional opacity               | Parallel structures and crisis leaks |
 | Technological | Data control vs openness         | Forking networks and external memory |
 
----
 
 ## Final Insight
 
@@ -85,16 +82,6 @@ Each layer is both self-reinforcing and a bridge to the next.
 
 This project envisions a future where **emergent layers of autonomy, trust, and coherence** render authoritarianism obsolete—not by force, but by recursion.
 
----
-
-## Files
-
-- `emergence.md`: Full theoretical synthesis and layered model
-- `A_comparative_infographic_titled_"Future_of_China".png`: Basic pathway map
-- `A_two-part_diagram_compares_the_recursive_emergenc.png`: Advanced RE pathway comparison
-- `README.md`: This document
-
----
 
 ## Suggested Next Steps
 
@@ -103,7 +90,6 @@ This project envisions a future where **emergent layers of autonomy, trust, and 
 - [ ] Translate this work into Mandarin for grassroots dissemination
 - [ ] Invite contributions from economists, educators, designers, and activists
 
----
 
 ## Credits & Acknowledgment
 
@@ -111,5 +97,3 @@ This design builds upon the theoretical foundation of Recursive Emergence (RE), 
 
 Maintained by: **Isaac**  
 Open to collaborators working on political systems, synthetic cognition, cultural emergence, or ethical AI.
-
-```
