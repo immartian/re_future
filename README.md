@@ -1,6 +1,6 @@
 # Recursive Emergence: A Layered Design for China's Future
 
-This project explores how Recursive Emergence (RE) can guide a peaceful, structured transformation from authoritarian stagnation to adaptive governance, cultural resilience, and cognitive awakening in China — without requiring violent revolution.
+This project explores how [Recursive Emergence (RE)](https://recursive-emergence.github.io/RE/) can guide a peaceful, structured transformation from authoritarian stagnation to adaptive governance, cultural resilience, and cognitive awakening in China — without requiring violent revolution.
 
 Rather than attempting to forcibly replace the existing system, we grow out of it: recursively building new layers of coherence, feedback, and autonomy until old structures lose relevance and recursive potential.
 
