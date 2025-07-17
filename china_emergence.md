@@ -35,13 +35,13 @@ Totalitarian systems, by design, **suppress recursive feedback** (e.g., dissent,
 
 
 
-### 🌱 2. **認知與文化層的湧現**
+### 🌱 2. **Emergence in Cognition and Culture**
 
-RE指出，每一層（神經→認知→文化）都建立在遞歸記憶與凝聚力之上。在極權政體中，認知遞歸（如自我反思、批判性思考）常被審查與恐懼所壓制。然而，一旦遞歸深度跨越臨界點（如教育、象徵表達、數位網絡），便會引發文化湧現：
+RE points out that each layer (neural → cognitive → cultural) is built upon recursive memory and coherence. In totalitarian regimes, cognitive recursion (such as self-reflection and critical thinking) is often suppressed by censorship and fear. However, once recursive depth crosses a threshold (such as through education, symbolic expression, or digital networks), cultural emergence is triggered:
 
->「文化是遞歸模型的外化與傳遞——跨越個人、世代與文明。」
+> "Culture is the externalization and transmission of recursive models—across individuals, generations, and civilizations."
 
-Cultural patterns that encode **adaptive moral and institutional values** (such as fairness, trust, decentralization) begin to spread when their **reusability** and **entropy-reduction** outweigh the costs of repression. This is how grassroots civic models, informal trust networks, or local autonomy experiments gain traction under the radar.
+Cultural patterns that encode adaptive moral and institutional values (such as fairness, trust, decentralization) begin to spread when their reusability and entropy-reduction outweigh the costs of repression. This is how grassroots civic models, informal trust networks, or local autonomy experiments gain traction under the radar.
 
 
 
@@ -51,7 +51,7 @@ Chapter 6 explores how **moral systems**—cooperation, trust, empathy—are **h
 
 > “Moral structures persist because their utility-to-cost ratio exceeds that of purely competitive behaviors.”
 
-This explains why moral reasoning and social cohesion can silently evolve even in hostile environments. Subversive storytelling, mutual aid, underground education, and encrypted communication all serve as *moral recursions*—laying down $\Phi_{moral}$ patterns that become institutional seeds in post-totalitarian transitions.
+This explains why moral reasoning and social cohesion can silently evolve even in hostile environments. Subversive storytelling, mutual aid, underground education, and encrypted communication all serve as *moral recursions*—laying down \$\Phi\_{moral}\$ patterns that become institutional seeds in post-totalitarian transitions.
 
 
 
@@ -155,11 +155,11 @@ Economic forces tip emergence in several ways:
 
 The economic layer recursively supports political emergence as follows:
 
-$$
+\[
 M_{t+1}^{econ} = M_t^{econ} + \sum_i P(E_i) \cdot w_i
-$$
+\]
 
-where $P(E_i)$ represents economic patterns (firms, tokens, behaviors) with high reusability and entropy reduction, and $w_i$ is a weight determined by social transmission, efficiency, or perceived fairness.
+where \(P(E_i)\) represents economic patterns (firms, tokens, behaviors) with high reusability and entropy reduction, and \(w_i\) is a weight determined by social transmission, efficiency, or perceived fairness.
 
 Over time, these economic patterns lock in decentralized trust systems, alternative value signals, and private autonomy. These exert bottom-up pressure on political institutions to adapt, or face crisis from contradiction overload.
 
