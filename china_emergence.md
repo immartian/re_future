@@ -13,12 +13,7 @@ This paper presents Recursive Emergence (RE) theory as a comprehensive framework
 Totalitarian regimes persist by suppressing recursive feedback and adaptive change. However, the RE framework reveals that transformation is inevitable when emergent, high-coherence structures accumulate across multiple layers. This paper integrates theoretical insights and practical mechanisms, providing a systematic design for peaceful transition.
 
 
-
-
-RE (Recursive Emergence) offers a powerful lens for understanding how entrenched systems—like totalitarian regimes—can be transformed, not through direct overthrow but through *emergent recursion* of more adaptive, higher-order structures. Here's how RE could catalyze political change in totalitarian countries like China.
-
-
-
+Just like the surprising findings that gravity may not be a fundamental force—Bianconi (Winner of 2025 Euler Prize), inspired by RE, showed that gravity can emerge from entropy gradients and structural interactions between information-bearing fields—— Recursive Emergence (RE) offers a powerful lens for understanding how entrenched systems like totalitarian regimes can be transformed. Instead of direct overthrow, change happens through *emergent recursion* of more adaptive, higher-order structures. Here's how RE could catalyze political change in totalitarian countries like China.
 
 
 ### 1. **Recursive Evolution of Governance**
